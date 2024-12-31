@@ -79,53 +79,84 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
 ---
 
 <h3 align="left">Key Data Analysis and Machine Learning Techniques Used:</h3>
-<table>
+<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; text-align: left;">
     <thead>
-        <tr>
-            <th>Category</th>
-            <th>Techniques</th>
+        <tr style="background-color: #4CAF50; color: white;">
+            <th style="padding: 15px; text-align: center;">Category</th>
+            <th style="padding: 15px; text-align: center;">Techniques</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Data Analysis Techniques</td>
-            <td>
-                Descriptive Statistics<br>
-                Exploratory Data Analysis (EDA)<br>
-                Hypothesis Testing
+        <tr style="background-color: #f9f9f9;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Data Analysis Techniques</td>
+            <td style="padding: 15px;">
+                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+                    <li>Descriptive Statistics</li>
+                    <li>Exploratory Data Analysis (EDA)</li>
+                    <li>Hypothesis Testing</li>
+                </ul>
             </td>
         </tr>
-        <tr>
-            <td>Machine Learning Techniques</td>
-            <td>
-                Regression (Linear & Logistic)<br>
-                Classification (Decision Trees, Random Forest, SVM, KNN)<br>
-                Clustering (K-Means, Hierarchical Clustering)
+        <tr style="background-color: #e8f5e9;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Machine Learning Techniques</td>
+            <td style="padding: 15px;">
+                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+                    <li>Regression
+                        <ul style="margin: 0; padding-left: 20px;">
+                            <li>Linear Regression</li>
+                            <li>Logistic Regression</li>
+                        </ul>
+                    </li>
+                    <li>Classification
+                        <ul style="margin: 0; padding-left: 20px;">
+                            <li>Decision Trees</li>
+                            <li>Random Forest</li>
+                            <li>Support Vector Machines (SVM)</li>
+                            <li>K-Nearest Neighbors (KNN)</li>
+                        </ul>
+                    </li>
+                    <li>Clustering
+                        <ul style="margin: 0; padding-left: 20px;">
+                            <li>K-Means</li>
+                            <li>Hierarchical Clustering</li>
+                        </ul>
+                    </li>
+                </ul>
             </td>
         </tr>
-        <tr>
-            <td>Deep Learning Techniques</td>
-            <td>
-                Artificial Neural Networks (ANN)<br>
-                Convolutional Neural Networks (CNN)<br>
-                Recurrent Neural Networks (RNN)
+        <tr style="background-color: #f9f9f9;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Deep Learning Techniques</td>
+            <td style="padding: 15px;">
+                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+                    <li>Artificial Neural Networks (ANN)</li>
+                    <li>Convolutional Neural Networks (CNN)</li>
+                    <li>Recurrent Neural Networks (RNN)</li>
+                </ul>
             </td>
         </tr>
-        <tr>
-            <td>Natural Language Processing (NLP) Techniques</td>
-            <td>
-                Text Preprocessing<br>
-                Sentiment Analysis
+        <tr style="background-color: #e8f5e9;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Natural Language Processing (NLP) Techniques</td>
+            <td style="padding: 15px;">
+                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+                    <li>Text Preprocessing</li>
+                    <li>Text Classification
+                        <ul style="margin: 0; padding-left: 20px;">
+                            <li>Sentiment Analysis</li>
+                        </ul>
+                    </li>
+                </ul>
             </td>
         </tr>
-        <tr>
-            <td>Model Evaluation Techniques</td>
-            <td>
-                Cross-Validation<br>
-                Confusion Matrix<br>
-                ROC Curve and AUC<br>
-                Precision, Recall, F1-Score<br>
-                Mean Squared Error (MSE)
+        <tr style="background-color: #f9f9f9;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Model Evaluation Techniques</td>
+            <td style="padding: 15px;">
+                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+                    <li>Cross-Validation</li>
+                    <li>Confusion Matrix</li>
+                    <li>ROC Curve and AUC</li>
+                    <li>Precision, Recall, F1-Score</li>
+                    <li>Mean Squared Error (MSE)</li>
+                </ul>
             </td>
         </tr>
     </tbody>
