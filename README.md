@@ -79,28 +79,28 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
 ---
 
 <h3 align="left">Key Data Analysis and Machine Learning Techniques Used:</h3>
-<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; text-align: left;">
+<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; text-align: left; border: 1px solid #ccc;">
     <thead>
-        <tr style="background-color: #4CAF50; color: white;">
-            <th style="padding: 15px; text-align: center;">Category</th>
-            <th style="padding: 15px; text-align: center;">Techniques</th>
+        <tr style="background-color: #444; color: #f1f1f1;">
+            <th style="padding: 15px; text-align: center; border: 1px solid #ccc;">Category</th>
+            <th style="padding: 15px; text-align: center; border: 1px solid #ccc;">Techniques</th>
         </tr>
     </thead>
     <tbody>
-        <tr style="background-color: #f9f9f9;">
-            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Data Analysis Techniques</td>
-            <td style="padding: 15px;">
-                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+        <tr style="background-color: #f9f9f9; color: #333;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; border: 1px solid #ccc;">Data Analysis Techniques</td>
+            <td style="padding: 15px; border: 1px solid #ccc;">
+                <ul style="margin: 0; padding-left: 20px;">
                     <li>Descriptive Statistics</li>
                     <li>Exploratory Data Analysis (EDA)</li>
                     <li>Hypothesis Testing</li>
                 </ul>
             </td>
         </tr>
-        <tr style="background-color: #e8f5e9;">
-            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Machine Learning Techniques</td>
-            <td style="padding: 15px;">
-                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+        <tr style="background-color: #555; color: #f1f1f1;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; border: 1px solid #ccc;">Machine Learning Techniques</td>
+            <td style="padding: 15px; border: 1px solid #ccc;">
+                <ul style="margin: 0; padding-left: 20px;">
                     <li>Regression
                         <ul style="margin: 0; padding-left: 20px;">
                             <li>Linear Regression</li>
@@ -124,20 +124,20 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
                 </ul>
             </td>
         </tr>
-        <tr style="background-color: #f9f9f9;">
-            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Deep Learning Techniques</td>
-            <td style="padding: 15px;">
-                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+        <tr style="background-color: #f9f9f9; color: #333;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; border: 1px solid #ccc;">Deep Learning Techniques</td>
+            <td style="padding: 15px; border: 1px solid #ccc;">
+                <ul style="margin: 0; padding-left: 20px;">
                     <li>Artificial Neural Networks (ANN)</li>
                     <li>Convolutional Neural Networks (CNN)</li>
                     <li>Recurrent Neural Networks (RNN)</li>
                 </ul>
             </td>
         </tr>
-        <tr style="background-color: #e8f5e9;">
-            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Natural Language Processing (NLP) Techniques</td>
-            <td style="padding: 15px;">
-                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+        <tr style="background-color: #555; color: #f1f1f1;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; border: 1px solid #ccc;">Natural Language Processing (NLP) Techniques</td>
+            <td style="padding: 15px; border: 1px solid #ccc;">
+                <ul style="margin: 0; padding-left: 20px;">
                     <li>Text Preprocessing</li>
                     <li>Text Classification
                         <ul style="margin: 0; padding-left: 20px;">
@@ -147,10 +147,10 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
                 </ul>
             </td>
         </tr>
-        <tr style="background-color: #f9f9f9;">
-            <td style="padding: 15px; text-align: center; font-weight: bold; color: #2c3e50;">Model Evaluation Techniques</td>
-            <td style="padding: 15px;">
-                <ul style="margin: 0; padding-left: 20px; color: #34495e;">
+        <tr style="background-color: #f9f9f9; color: #333;">
+            <td style="padding: 15px; text-align: center; font-weight: bold; border: 1px solid #ccc;">Model Evaluation Techniques</td>
+            <td style="padding: 15px; border: 1px solid #ccc;">
+                <ul style="margin: 0; padding-left: 20px;">
                     <li>Cross-Validation</li>
                     <li>Confusion Matrix</li>
                     <li>ROC Curve and AUC</li>
