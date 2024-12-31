@@ -21,6 +21,15 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:vincentpaul.vin1990@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">Key Languages and Libraries Used:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
