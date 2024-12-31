@@ -24,7 +24,7 @@ Previously, I worked magic with chemo-metrics and statistical process control, t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:vincentpaul.vin1990@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+     <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="40" />
   </a>
 </p>
 
